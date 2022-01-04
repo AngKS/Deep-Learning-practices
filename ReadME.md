@@ -1,3 +1,22 @@
-# ST1504: Deep Learning
+# Project Title
 
-This repository contains the practice notebooks for practicals and lab work I did during the module.
+## Getting Started
+
+
+## Test & Deploy
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## TO-DO
+[ ] -
+[ ] -
+[ ] -
+
+
+## Authors
+
+## License
